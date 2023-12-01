@@ -1,0 +1,10 @@
+#container{
+    width: 40%;
+    margin-top: 20px;
+    border: 1px solid rgb(174, 141, 141);
+    padding: 20px;
+}
+#apply{
+    background-color: chocolate;
+    margin: 0%;
+}
